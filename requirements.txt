@@ -1,0 +1,16 @@
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
+scipy
+appmode
+image
+ipyvuetify
+bqplot
+panda
+voila
+voila-vuetify
+nbconvert
+rise
+jupyter-docx-bundler
+chardet

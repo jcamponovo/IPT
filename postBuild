@@ -1,0 +1,28 @@
+#!/bin/bash
+
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
+jupyter nbextension enable rubberband/main
+jupyter nbextension enable freeze/main
+jupyter nbextension enable exercise2/main
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable autoscroll/main
+jupyter nbextension enable init_cell/main
+jupyter nbextension enable toggle_all_line_numbers/main
+jupyter nbextension enable runtools/main
+jupyter nbextension enable splitcell/splitcell
+jupyter nbextension     enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
+jupyter nbextension enable --py --sys-prefix ipyvuetify
+
+jupyter bundlerextension enable --py jupyter_docx_bundler --sys-prefix
+
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+jupyter trust environnement.ipynb
+jupyter trust exploitation.ipynb
+jupyter trust refraction2.ipynb
+jupyter trust refraction2_pres.ipynb
+jupyter trust refraction3.ipynb
+jupyter trust new.ipynb
+jupyter trust presentation.ipynb
