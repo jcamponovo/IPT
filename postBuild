@@ -15,6 +15,7 @@ jupyter nbextension enable splitcell/splitcell
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 jupyter nbextension enable --py --sys-prefix ipyvuetify
+jupyter nbextension enable highlighter/highlighter
 
 jupyter bundlerextension enable --py jupyter_docx_bundler --sys-prefix
 
@@ -26,3 +27,5 @@ jupyter trust refraction2_pres.ipynb
 jupyter trust refraction3.ipynb
 jupyter trust new.ipynb
 jupyter trust presentation.ipynb
+jupyter trust cours_00.ipynb
+jupyter trust TD_00_1.ipynb
