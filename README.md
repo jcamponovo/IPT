@@ -21,6 +21,13 @@
 * I. Tableaux [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01.ipynb)
 * II. Piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_1.ipynb)
    * TD01 - structures de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_01_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_01_1_cor.ipynb)
+* III. Files [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_2.ipynb)
+* Complément: Exemples en programmation orientée objet [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_3.ipynb)
+
+
+### Cours 02 - Récursivité
+* I. Définition [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_02_1.ipynb)
+* II. Pile d'appel [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_02_2.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
