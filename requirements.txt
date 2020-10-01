@@ -14,3 +14,4 @@ nbconvert
 rise
 jupyter-docx-bundler
 chardet
+ipyturtle
