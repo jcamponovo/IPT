@@ -31,8 +31,12 @@
    * TD02 - Recursivité et fractales [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_02_1.ipynb)
 * III. Limites [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_02_3.ipynb)
    * TD03 - Recursivité et récursivité terminale [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_02_2.ipynb)
-   
-   
+
+
+### Cours 03 - Les tris
+* I. tri insertion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_1.ipynb)
+
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
