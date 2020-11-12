@@ -35,6 +35,8 @@
 
 ### Cours 03 - Les tris
 * I. tri insertion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_1.ipynb)
+  * TD04 - Efficacité d'un tri [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_03_1.ipynb)
+* II. tri à bulles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_2.ipynb)
 
 
 This work is licensed under a
