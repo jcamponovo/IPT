@@ -38,6 +38,7 @@
   * TD04 - Efficacité d'un tri [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_03_1.ipynb)
 * II. tri à bulles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_2.ipynb)
 * III. tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_3.ipynb)
+* IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4.ipynb)
 
 
 This work is licensed under a
