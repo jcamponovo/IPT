@@ -40,6 +40,9 @@
 * III. tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_3.ipynb)
 * IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4.ipynb)
 
+### Cours 04 - Révisions sur le sméthodes numériques d'intégration
+* I. Méthode des rectangles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb)
+* II. Méthode des trapèzes
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
