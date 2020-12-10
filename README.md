@@ -42,7 +42,8 @@
 
 ### Cours 04 - Révisions sur le sméthodes numériques d'intégration
 * I. Méthode des rectangles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb)
-* II. Méthode des trapèzes
+* II. Méthode des trapèzes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb)
+* III. Méthode de simpson [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
