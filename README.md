@@ -43,9 +43,9 @@ DS2 - PSI [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/
 * IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4_cor.ipynb) 
 
 ### Cours 04 - Révisions sur le sméthodes numériques d'intégration
-* I. Méthode des rectangles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb)
-* II. Méthode des trapèzes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb)
-* III. Méthode de simpson [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2.ipynb)
+* I. Méthode des rectangles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1_cor.ipynb) 
+* II. Méthode des trapèzes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1_cor.ipynb) 
+* III. Méthode de simpson [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2_cor.ipynb) 
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
