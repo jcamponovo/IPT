@@ -12,8 +12,9 @@
 
 
 ### Corrections
+DS1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
 DS2 - PSI [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
-DS2 - MP1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)
+DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)
 
 ### Cours 00 - Mise en route
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_00.ipynb)
