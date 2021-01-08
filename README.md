@@ -43,10 +43,17 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * III. tri fusion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_3.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_3_cor.ipynb)
 * IV. Quicksort [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_03_4_cor.ipynb) 
 
-### Cours 04 - Révisions sur le sméthodes numériques d'intégration
+### Cours 04 - Révisions sur les méthodes numériques d'intégration
 * I. Méthode des rectangles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1_cor.ipynb) 
 * II. Méthode des trapèzes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_1_cor.ipynb) 
 * III. Méthode de simpson [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2_cor.ipynb) 
+
+### Cours 05 - Révisions sur les résolutions numériques d'équations différentielles
+* I. Méthode d'Euler explicite [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_05_1.ipynb)
+* II. Méthode de Heun
+* III. Méthode de Leapfrog
+* IV. Ecriture vectorielle
+* V. Méthode RK4
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
