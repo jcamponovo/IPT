@@ -55,6 +55,9 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * IV. Ecriture vectorielle
 * V. Méthode RK4
   * TD_05_1 - Modélisation mécanique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_05_1.ipynb)
+  
+### Cours 06 - SQL
+* Cours 1. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=Cours_08_1.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
