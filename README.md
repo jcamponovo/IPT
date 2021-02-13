@@ -49,15 +49,18 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * III. Méthode de simpson [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_04_2_cor.ipynb) 
 
 ### Cours 05 - Révisions sur les résolutions numériques d'équations différentielles
-* I. Méthode d'Euler explicite [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_05_1.ipynb)
+* I. Méthode d'Euler explicite [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_05_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_05_1_cor.ipynb)
 * II. Méthode de Heun
 * III. Méthode de Leapfrog
 * IV. Ecriture vectorielle
 * V. Méthode RK4
-  * TD_05_1 - Modélisation mécanique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_05_1.ipynb)
+  * TD_05_1 - Modélisation mécanique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_05_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_05_1_cor.ipynb)
   
 ### Cours 06 - SQL
-* Cours 1. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=Cours_08_1.ipynb)
+* Rappels base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_08_1.ipynb)
+  * TD_01 base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_1.ipynb)
+* Rappels systèmes de gestion de base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_08_2.ipynb)
+  * TD_02 Syntaxe SQL [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_2.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
