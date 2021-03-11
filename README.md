@@ -63,8 +63,8 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
   * TD_02 Syntaxe SQL [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_2.ipynb)
 
 ### CCB et Correction
-[Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction%20ccb.ipynb')  
-[Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction%20ccb.ipynb)  
+[Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb')  
+[Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
 
 
 This work is licensed under a
