@@ -60,7 +60,8 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * Rappels base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_08_1.ipynb)
   * TD_01 base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_1.ipynb)
 * Rappels systèmes de gestion de base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_08_2.ipynb)
-  * TD_02 Syntaxe SQL [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_2.ipynb)
+  * TD_02 Syntaxe SQL 1/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_2.ipynb)
+  * TD_03 Syntaxe SQL 2/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_3.ipynb)
 
 ### CCB et Correction
 [Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
