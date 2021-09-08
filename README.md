@@ -11,10 +11,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=apps/environnement.ipynb)
 
 
-### Corrections
-DS1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
-DS2 - PSI [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
-DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)
+### Corrections DS 2020-2021
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)
+[Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb) 
+[Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
 
 ### Cours 00 - Mise en route
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_00.ipynb)
@@ -62,10 +64,6 @@ DS2 - MP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 * Rappels systèmes de gestion de base de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_08_2.ipynb)
   * TD_02 Syntaxe SQL 1/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_2.ipynb)
   * TD_03 Syntaxe SQL 2/2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_08_3.ipynb)
-
-### CCB et Correction
-[Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
-[Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
 
 ### Révisions Sup
 * Révisions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=revisions.ipynb)
