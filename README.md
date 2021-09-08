@@ -12,11 +12,11 @@
 
 
 ### Corrections DS 2020-2021
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)
-[Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb) 
-[Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
+DS1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
+DS2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
+DS2bis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)  
+CCB [Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb) 
+CCB [Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
 
 ### Cours 00 - Mise en route
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_00.ipynb)
