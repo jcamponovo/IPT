@@ -5,29 +5,31 @@
 
 
 ### Document de formation à Jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=presentation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/presentation.ipynb)
 
 ### Environnement Jupyter pour programmer
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=apps/environnement.ipynb)
 
 
 ### Corrections DS 2020-2021
-DS1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS1_cor.ipynb)  
-DS2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_PSI.ipynb)  
-DS2bis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=DS2_MP.ipynb)  
-CCB [Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
-CCB [Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb.ipynb)  
+DS1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/DS1_cor.ipynb)  
+DS2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/DS2_PSI.ipynb)  
+DS2bis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/DS2_MP.ipynb)  
+CCB [Sujet1](https://github.com/jcamponovo/IPT/blob/master/CCB2021.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/correction_ccb.ipynb)  
+CCB [Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/correction_ccb.ipynb)  
 
 ### Cours 00 - Mise en route
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_00.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/cours_00.ipynb)
 
 
 ### Cours 01 - Les structures de données
-* I. Tableaux [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01.ipynb)
-* II. Piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_1.ipynb)
-   * TD01 - structures de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_01_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=TD_01_1_cor.ipynb)
-* III. Files [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_2.ipynb)
-* Complément: Exemples en programmation orientée objet [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=cours_01_3.ipynb)
+* I. Tableaux [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/cours_01.ipynb)
+* II. Piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/cours_01_1.ipynb)
+ * III. Files [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/cours_01_2.ipynb)
+ * Complément: Exemples en programmation orientée objet [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree.ours_01_3.ipynb)
+   * TD01 - structures de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/TD_01_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/IPT/master?urlpath=tree/TD_01_1_cor.ipynb)
+
+
 
 
 ### Cours 02 - Récursivité
