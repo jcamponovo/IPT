@@ -73,6 +73,9 @@ CCB [Sujet2](https://github.com/jcamponovo/IPT/blob/master/CCB2021-2.pdf) et [co
 ### Traitement d'images
 * Révisions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=images.ipynb)
 
+### CCB 2023
+* Un exemple de correction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/IPT/master?filepath=correction_ccb_2023.ipynb)
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
